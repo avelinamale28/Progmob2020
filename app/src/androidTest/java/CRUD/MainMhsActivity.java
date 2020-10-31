@@ -4,7 +4,8 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.uts_72170102.R;
+import com.example.tts_72170102.R;
+import com.example.tts_72170102.R;
 
 public class MainMhsActivity extends AppCompatActivity {
 

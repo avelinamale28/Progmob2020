@@ -4,7 +4,8 @@ import android.os.Handler;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import uts_72170102.MainActivity;
+import com.example.tts_72170102.R;
+
 
 public class Activity_SplashScreen extends AppCompatActivity {
     private int waktu_loading=4000;
